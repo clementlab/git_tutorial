@@ -28,4 +28,5 @@ https://github.com/user-attachments/assets/7e1f6908-00b6-48f0-a5e4-d8d3c2a6487b
 
 # Resources:
 Github: https://docs.github.com/en/get-started/start-your-journey/hello-world
+
 PyPI: https://packaging.python.org/en/latest/tutorials/packaging-projects/
